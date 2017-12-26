@@ -1,9 +1,9 @@
 <?php
-namespace Tanjibo\Mini;
+namespace Tanjibo\Minilrss;
 
 
 use Illuminate\Support\ServiceProvider;
-use Tanjibo\Minilrss\Minilrss;
+
 
 class MinilrssServiceProvider extends ServiceProvider
 {
