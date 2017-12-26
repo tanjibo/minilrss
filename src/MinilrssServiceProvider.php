@@ -4,7 +4,7 @@ namespace Tanjibo\Mini;
 use Illuminate\Support\ServiceProvider;
 use Tanjibo\Minilrss\Minilrss;
 
-class MiniServiceProvider extends ServiceProvider
+class MinilrssServiceProvider extends ServiceProvider
 {
     /**
      * Indicates if loading of the provider is deferred.
