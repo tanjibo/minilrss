@@ -1,0 +1,20 @@
+{
+    "name": "tanjibo/minilrss",
+    "description": "miniProgram for laravel5",
+    "authors": [
+        {
+            "name": "tanjibo",
+            "email": "tantanjibo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tanjibo\\Minilrss\\": "src/"
+        }
+    }
+}
