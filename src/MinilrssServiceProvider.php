@@ -1,6 +1,7 @@
 <?php
 namespace Tanjibo\Mini;
 
+
 use Illuminate\Support\ServiceProvider;
 use Tanjibo\Minilrss\Minilrss;
 
